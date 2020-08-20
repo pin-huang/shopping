@@ -15,6 +15,7 @@
 		5324775D24EB986300E2060F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5324775B24EB986300E2060F /* LaunchScreen.storyboard */; };
 		5324776824EB986400E2060F /* shoppingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5324776724EB986400E2060F /* shoppingTests.swift */; };
 		5324777324EB986400E2060F /* shoppingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5324777224EB986400E2060F /* shoppingUITests.swift */; };
+		533ACB9424ED09B60070C150 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 533ACB9324ED09B60070C150 /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		5324776E24EB986400E2060F /* shoppingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = shoppingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5324777224EB986400E2060F /* shoppingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = shoppingUITests.swift; sourceTree = "<group>"; };
 		5324777424EB986400E2060F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		533ACB9324ED09B60070C150 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				5324775224EB985F00E2060F /* SceneDelegate.swift */,
 				5324775424EB985F00E2060F /* ViewController.swift */,
 				5324775624EB985F00E2060F /* Main.storyboard */,
+				533ACB9324ED09B60070C150 /* TableViewController.swift */,
 				5324775924EB986300E2060F /* Assets.xcassets */,
 				5324775B24EB986300E2060F /* LaunchScreen.storyboard */,
 				5324775E24EB986300E2060F /* Info.plist */,
@@ -261,6 +264,7 @@
 				5324775524EB985F00E2060F /* ViewController.swift in Sources */,
 				5324775124EB985F00E2060F /* AppDelegate.swift in Sources */,
 				5324775324EB985F00E2060F /* SceneDelegate.swift in Sources */,
+				533ACB9424ED09B60070C150 /* TableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
